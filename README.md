@@ -1,6 +1,9 @@
 ### Hi, I'm Victor Xavier 👋
 I'm currently a Information Technology Student at UFRN.
+
 Volunteer at the student branch of IEEE and vice president at the computer society chapter.
+
+I still playing with this to get even more beauty 😁
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbxavier&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
